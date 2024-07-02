@@ -28,26 +28,26 @@ This analysis of sales data has provided significant insights into various aspec
 - **Products Sold Together:** [iPhone,Lightning Charging Cable]
 - **Probability of Ordering USB-C Charging Cable:** [0.11778972842161871]
 - **Probability of Ordering Other Products:**
- Detailed probabilities for each product.
-Wired Headphones 0.101543425652057
-Bose SoundSport Headphones 0.07165904813121807
-iPhone 0.036794837321860716
-AA Batteries (4-pack) 0.11065877924173165
-34in Ultrawide Monitor 0.03324011831137402
-20in Monitor 0.02205431567625706
-Macbook Pro Laptop 0.025404678677063728
-LG Washing Machine 0.003581607959128798
-27in FHD Monitor 0.04037106749126109
-Lightning Charging Cable 0.11647216993815541
-Apple Airpods Headphones 0.08361925248722775
-AAA Batteries (4-pack) 0.11100295778435063
-USB-C Charging Cable 0.11778972842161871
-27in 4K Gaming Monitor 0.033503630008066686
-ThinkPad Laptop 0.022199515998924443
-Flatscreen TV 0.02581339069642377
-Google Phone 0.029712288249529442
-Vareebadd Phone 0.011105135789190642
-LG Dryer 0.003474052164560366
+ Detailed probabilities for each product.  
+Wired Headphones 0.101543425652057  
+Bose SoundSport Headphones 0.07165904813121807  
+iPhone 0.036794837321860716  
+AA Batteries (4-pack) 0.11065877924173165  
+34in Ultrawide Monitor 0.03324011831137402  
+20in Monitor 0.02205431567625706  
+Macbook Pro Laptop 0.025404678677063728  
+LG Washing Machine 0.003581607959128798  
+27in FHD Monitor 0.04037106749126109  
+Lightning Charging Cable 0.11647216993815541  
+Apple Airpods Headphones 0.08361925248722775  
+AAA Batteries (4-pack) 0.11100295778435063  
+USB-C Charging Cable 0.11778972842161871  
+27in 4K Gaming Monitor 0.033503630008066686  
+ThinkPad Laptop 0.022199515998924443  
+Flatscreen TV 0.02581339069642377  
+Google Phone 0.029712288249529442  
+Vareebadd Phone 0.011105135789190642  
+LG Dryer 0.003474052164560366  
   
 These findings provide actionable insights that can be used to drive sales, improve customer satisfaction, and enhance overall business performance.
 For more details on the analysis, please refer to the full code and documentation provided.

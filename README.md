@@ -1,62 +1,64 @@
-# Sales Data Analysis
+# Pantechelearning Internship Projects
 
-## Introduction
+This repository contains all the projects I completed during my internship at Pantech eLearning. Each project showcases various skills and techniques I have learned and applied throughout the internship period. This internship primarily focused on machine learning applications.
 
-This project aims to analyze sales data to derive valuable insights about the business. By examining various aspects such as the best month for sales, the city with the highest sales, the optimal time for selling, and more, we can understand the sales trends and make data-driven decisions. The dataset used in this project includes information on order dates, product names, purchase addresses, quantities ordered, and prices.
+## Projects Overview
 
-### Key Questions Answered:
-1. **Best Month for Sales**: Which month had the highest sales?
-2. **Top City for Sales**: Which city sold the most products?
-3. **Best Time for Selling**: What is the optimal time of day for sales?
-4. **Most Sold Product**: Which product was sold the most and why?
-5. **Products Sold Together**: Which products are frequently bought together?
-6. **Probability of Ordering USB-C Charging Cable**: How likely is it that the next order will be a USB-C Charging Cable?
-7. **Probability of Ordering Other Products**: What is the likelihood of ordering each product?
+### 1. Sales Data Analysis using Pandas
+- **Description**: Analyzed sales data to uncover trends and insights using the Pandas library.
+- **Key Technologies**: Python, Pandas.
+- **Highlights**: Data cleaning, aggregation, and visualization of sales metrics.
 
-The answers to these questions will provide a comprehensive understanding of the sales data and help in making strategic decisions.
+### 2. World Population Dataset EDA
+- **Description**: Performed exploratory data analysis (EDA) on world population data to understand global demographic patterns.
+- **Key Technologies**: Python, Pandas, Matplotlib, Seaborn.
+- **Highlights**: Data visualization, statistical analysis, and insights on population growth trends.
+
+### 3. Credit Card Fraud Detection
+- **Description**: Developed a machine learning model to detect fraudulent credit card transactions.
+- **Key Technologies**: Python, Scikit-learn, Pandas.
+- **Highlights**: Data preprocessing, feature engineering, and model evaluation.
+
+### 4. Calories Burnt Prediction
+- **Description**: Built a predictive model to estimate calories burnt during physical activities.
+- **Key Technologies**: Python, Scikit-learn, Pandas.
+- **Highlights**: Regression analysis, feature selection, and model validation.
+
+### 5. Music Data Clustering and PCA
+- **Description**: Applied clustering algorithms and Principal Component Analysis (PCA) on music data for pattern recognition.
+- **Key Technologies**: Python, Scikit-learn, Pandas, Matplotlib.
+- **Highlights**: Dimensionality reduction, clustering techniques, and visualization of clusters.
+
+### 6. Churn Prediction using ANN
+- **Description**: Utilized Artificial Neural Networks (ANN) to predict customer churn.
+- **Key Technologies**: Python, Keras, Pandas, Scikit-learn.
+- **Highlights**: Model building, hyperparameter tuning, and performance evaluation.
+
+### 7. Carbon Dioxide Emission Prediction
+- **Description**: Predicted carbon dioxide emissions based on various factors using machine learning models.
+- **Key Technologies**: Python, Scikit-learn, Pandas.
+- **Highlights**: Regression techniques, model training, and prediction accuracy.
+
+### 8. Stock Price Prediction with Neural Network
+- **Description**: Developed a neural network model to predict stock prices.
+- **Key Technologies**: Python, Keras, Pandas, Scikit-learn.
+- **Highlights**: Time series analysis, neural network design, and model evaluation.
+
+### 9. Fake News Prediction using NLP
+- **Description**: Created a Natural Language Processing (NLP) model to identify fake news articles.
+- **Key Technologies**: Python, NLTK, Scikit-learn, Pandas.
+- **Highlights**: Text preprocessing, feature extraction, and model accuracy.
+
+### 10. Twitter Sentiment Analysis using NLP and LSTM
+- **Description**: Conducted sentiment analysis on Twitter data using NLP techniques and Long Short-Term Memory (LSTM) networks.
+- **Key Technologies**: Python, Keras, NLTK, Pandas.
+- **Highlights**: Sentiment classification, sequence modeling, and deep learning.
 
 ## Conclusion
 
-This analysis of sales data has provided significant insights into various aspects of the business. By identifying the best month for sales, the top-performing city, and the optimal time for selling, we can optimize our marketing and sales strategies. Understanding which products are sold the most and frequently bought together can help in inventory management and promotional activities.
+Throughout my internship at Pantech eLearning, I have gained valuable experience and skills that I have applied to each of these projects. I am proud of the progress I have made and the knowledge I have acquired. I look forward to building upon these foundations in my future endeavors.
 
-### Summary of Findings:
-- **Best Month for Sales**: [December]
-- **Top City for Sales:** [San Francisco]
-- **Best Time for Selling:** [7 p.m]
-- **Most Sold Product:** [AAA Batteries (4-pack)]
-- **Why It Sold the Most:** [competitive price]
-- **Products Sold Together:** [iPhone,Lightning Charging Cable]
-- **Probability of Ordering USB-C Charging Cable:** [0.11778972842161871]
-- **Probability of Ordering Other Products:**
- Detailed probabilities for each product.  
-Wired Headphones 0.101543425652057  
-Bose SoundSport Headphones 0.07165904813121807  
-iPhone 0.036794837321860716  
-AA Batteries (4-pack) 0.11065877924173165  
-34in Ultrawide Monitor 0.03324011831137402  
-20in Monitor 0.02205431567625706  
-Macbook Pro Laptop 0.025404678677063728  
-LG Washing Machine 0.003581607959128798  
-27in FHD Monitor 0.04037106749126109  
-Lightning Charging Cable 0.11647216993815541  
-Apple Airpods Headphones 0.08361925248722775  
-AAA Batteries (4-pack) 0.11100295778435063  
-USB-C Charging Cable 0.11778972842161871  
-27in 4K Gaming Monitor 0.033503630008066686  
-ThinkPad Laptop 0.022199515998924443  
-Flatscreen TV 0.02581339069642377  
-Google Phone 0.029712288249529442  
-Vareebadd Phone 0.011105135789190642  
-LG Dryer 0.003474052164560366  
-  
-These findings provide actionable insights that can be used to drive sales, improve customer satisfaction, and enhance overall business performance.
-For more details on the analysis, please refer to the full code and documentation provided.
-
-### For more details:
-
-Visit the [project repository](https://github.com/prizbot/Pantechelearning-internship-projects.git).
-
-### Contact Information:
+---
 
 For any inquiries or collaborations, feel free to reach out:
 - LinkedIn: [Priyadharshini NRS](https://www.linkedin.com/in/priyadharshininrs)

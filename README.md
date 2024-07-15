@@ -8,13 +8,13 @@ This repository contains all the projects I completed during my internship at Pa
 - **Description**: Analyzed sales data to uncover trends and insights using the Pandas library.
 - **Key Technologies**: Python, Pandas.
 - **Highlights**: Data cleaning, aggregation, and visualization of sales metrics.
-  Visit the [project repository](https://github.com/prizbot/Pantechelearning-internship-projects/tree/main/Sale%20data%20analysis%20using%20Pandas).
+- Visit the [project repository](https://github.com/prizbot/Pantechelearning-internship-projects/tree/main/Sale%20data%20analysis%20using%20Pandas).
 
 ### 2. World Population Dataset EDA
 - **Description**: Performed exploratory data analysis (EDA) on world population data to understand global demographic patterns.
 - **Key Technologies**: Python, Pandas, Matplotlib, Seaborn.
 - **Highlights**: Data visualization, statistical analysis, and insights on population growth trends.
-  Visit the [project repository](https://github.com/prizbot/Pantechelearning-internship-projects/tree/main/EDA%20on%20world%20population%20dataset).
+- Visit the [project repository](https://github.com/prizbot/Pantechelearning-internship-projects/tree/main/EDA%20on%20world%20population%20dataset).
 
 ### 3. Credit Card Fraud Detection
 - **Description**: Developed a machine learning model to detect fraudulent credit card transactions.

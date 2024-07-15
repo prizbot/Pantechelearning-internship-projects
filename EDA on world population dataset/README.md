@@ -72,6 +72,10 @@ This EDA provides a comprehensive overview of the world population data, offerin
 
 Feel free to explore the code and visualizations in the notebook to gain a deeper understanding of the world population data. Happy analyzing! 🚀
 
+### For more details:
+
+Visit the [project repository](https://github.com/prizbot/Pantechelearning-internship-projects/tree/main/EDA%20on%20world%20population%20dataset).
+
 ### Contact Information:
 
 For any inquiries or collaborations, feel free to reach out:

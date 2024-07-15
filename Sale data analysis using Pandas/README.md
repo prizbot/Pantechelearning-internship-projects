@@ -54,7 +54,7 @@ For more details on the analysis, please refer to the full code and documentatio
 
 ### For more details:
 
-Visit the [project repository](https://github.com/prizbot/Pantechelearning-internship-projects.git).
+Visit the [project repository](https://github.com/prizbot/Pantechelearning-internship-projects/tree/main/Sale%20data%20analysis%20using%20Pandas).
 
 ### Contact Information:
 
